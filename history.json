@@ -1,0 +1,415 @@
+[
+  {
+    "timestamp": "2025-04-06T16:01:27.555Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 100,
+    "result": 2517.33
+  },
+  {
+    "timestamp": "2025-04-06T16:02:12.839Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 100,
+    "result": 2517.33
+  },
+  {
+    "timestamp": "2025-04-06T16:03:28.773Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 100,
+    "result": 2517.33
+  },
+  {
+    "timestamp": "2025-04-06T16:04:53.582Z",
+    "from": "USD",
+    "to": "CZK",
+    "amount": 100,
+    "result": 2288.67
+  },
+  {
+    "timestamp": "2025-04-06T16:05:56.774Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 100,
+    "result": 2517.33
+  },
+  {
+    "timestamp": "2025-04-06T16:34:51.807Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 100,
+    "result": 2517.33
+  },
+  {
+    "timestamp": "2025-04-06T16:38:28.537Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 100,
+    "result": 2517.33
+  },
+  {
+    "timestamp": "2025-04-06T16:39:17.583Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 100,
+    "result": 2517.33
+  },
+  {
+    "timestamp": "2025-04-06T16:43:23.450Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 100,
+    "result": 2517.33
+  },
+  {
+    "timestamp": "2025-04-06T16:46:00.371Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 100,
+    "result": 2517.33
+  },
+  {
+    "timestamp": "2025-04-06T16:46:38.014Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 100,
+    "result": 2517.33
+  },
+  {
+    "timestamp": "2025-04-06T17:05:33.567Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 100,
+    "result": 2517.33
+  },
+  {
+    "timestamp": "2025-04-06T17:05:37.385Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 100,
+    "result": 2517.33
+  },
+  {
+    "timestamp": "2025-04-06T17:05:45.800Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 100,
+    "result": 2517.33
+  },
+  {
+    "timestamp": "2025-04-06T17:05:50.706Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 50,
+    "result": 1258.665
+  },
+  {
+    "timestamp": "2025-04-06T17:09:40.289Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 1,
+    "result": 25.1733
+  },
+  {
+    "timestamp": "2025-04-06T17:10:54.826Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 100,
+    "result": 2517.33
+  },
+  {
+    "timestamp": "2025-04-06T17:11:06.467Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 100,
+    "result": 2517.33
+  },
+  {
+    "timestamp": "2025-04-06T17:13:00.246Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 100,
+    "result": 2517.33
+  },
+  {
+    "timestamp": "2025-04-06T17:13:20.381Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 100,
+    "result": 2517.33
+  },
+  {
+    "timestamp": "2025-04-06T17:17:23.262Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 100,
+    "result": 2517.33
+  },
+  {
+    "timestamp": "2025-04-06T17:17:35.493Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 100,
+    "result": 2517.33
+  },
+  {
+    "timestamp": "2025-04-06T17:17:36.240Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 100,
+    "result": 2517.33
+  },
+  {
+    "timestamp": "2025-04-06T17:17:42.035Z",
+    "from": "GBP",
+    "to": "CZK",
+    "amount": 300,
+    "result": 8890.71
+  },
+  {
+    "timestamp": "2025-04-06T17:17:43.466Z",
+    "from": "GBP",
+    "to": "CZK",
+    "amount": 300,
+    "result": 8890.71
+  },
+  {
+    "timestamp": "2025-04-06T17:17:44.713Z",
+    "from": "GBP",
+    "to": "CZK",
+    "amount": 300,
+    "result": 8890.71
+  },
+  {
+    "timestamp": "2025-04-06T17:31:13.849Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 100,
+    "result": 2517.33
+  },
+  {
+    "timestamp": "2025-04-06T17:31:28.882Z",
+    "from": "GBP",
+    "to": "CZK",
+    "amount": 60,
+    "result": 1778.142
+  },
+  {
+    "timestamp": "2025-04-06T17:31:34.387Z",
+    "from": "GBP",
+    "to": "AUD",
+    "amount": 60,
+    "result": 127.476
+  },
+  {
+    "timestamp": "2025-04-06T17:34:54.599Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 100,
+    "result": 2517.33
+  },
+  {
+    "timestamp": "2025-04-06T17:39:02.822Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 100,
+    "result": 2517.33
+  },
+  {
+    "timestamp": "2025-04-06T17:39:02.914Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 100,
+    "result": 2517.33
+  },
+  {
+    "timestamp": "2025-04-06T17:39:12.159Z",
+    "from": "GBP",
+    "to": "JPY",
+    "amount": 100,
+    "result": 18952.26
+  },
+  {
+    "timestamp": "2025-04-06T18:01:37.625Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 100,
+    "result": 2517.33
+  },
+  {
+    "timestamp": "2025-04-06T18:03:47.010Z",
+    "from": "EUR",
+    "to": "USD",
+    "amount": 100,
+    "result": 109.9
+  },
+  {
+    "timestamp": "2025-04-06T18:04:14.470Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 200,
+    "result": 5034.66
+  },
+  {
+    "timestamp": "2025-04-06T18:04:22.525Z",
+    "from": "EUR",
+    "to": "USD",
+    "amount": 200,
+    "result": 219.8
+  },
+  {
+    "timestamp": "2025-04-06T18:08:25.559Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 100,
+    "result": 2517.33
+  },
+  {
+    "timestamp": "2025-04-06T18:08:25.903Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 100,
+    "result": 2517.33
+  },
+  {
+    "timestamp": "2025-04-06T18:45:03.292Z",
+    "from": "USD",
+    "to": "EUR",
+    "amount": 200,
+    "result": 182.12
+  },
+  {
+    "timestamp": "2025-04-06T18:46:15.075Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 100,
+    "result": 2517.33
+  },
+  {
+    "timestamp": "2025-04-06T18:46:35.505Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 100,
+    "result": 2517.33
+  },
+  {
+    "timestamp": "2025-04-06T18:55:30.823Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 30,
+    "result": 755.199
+  },
+  {
+    "timestamp": "2025-04-06T18:55:31.563Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 30,
+    "result": 755.199
+  },
+  {
+    "timestamp": "2025-04-06T18:58:08.136Z",
+    "from": "EUR",
+    "to": "HKD",
+    "amount": 300,
+    "result": 2563.11
+  },
+  {
+    "timestamp": "2025-04-06T18:58:19.405Z",
+    "from": "EUR",
+    "to": "HKD",
+    "amount": 300,
+    "result": 2563.11
+  },
+  {
+    "timestamp": "2025-04-06T18:58:27.395Z",
+    "from": "JPY",
+    "to": "CZK",
+    "amount": 300,
+    "result": 46.89
+  },
+  {
+    "timestamp": "2025-04-06T18:58:49.620Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 100,
+    "result": 2517.33
+  },
+  {
+    "timestamp": "2025-04-06T18:59:21.448Z",
+    "from": "EUR",
+    "to": "USD",
+    "amount": 200,
+    "result": 219.8
+  },
+  {
+    "timestamp": "2025-04-06T18:59:21.979Z",
+    "from": "EUR",
+    "to": "USD",
+    "amount": 200,
+    "result": 219.8
+  },
+  {
+    "timestamp": "2025-04-06T18:59:30.187Z",
+    "from": "EUR",
+    "to": "JPY",
+    "amount": 200,
+    "result": 32190.76
+  },
+  {
+    "timestamp": "2025-04-06T18:59:49.510Z",
+    "from": "CHF",
+    "to": "HKD",
+    "amount": 200,
+    "result": 1816.02
+  },
+  {
+    "timestamp": "2025-04-06T19:00:12.760Z",
+    "from": "AUD",
+    "to": "JPY",
+    "amount": 300,
+    "result": 26762.19
+  },
+  {
+    "timestamp": "2025-04-06T19:02:28.575Z",
+    "from": "EUR",
+    "to": "CZK",
+    "amount": 200,
+    "result": 5034.66
+  },
+  {
+    "timestamp": "2025-04-06T19:02:54.788Z",
+    "from": "AUD",
+    "to": "CZK",
+    "amount": 300,
+    "result": 4205.13
+  },
+  {
+    "timestamp": "2025-04-06T19:02:54.886Z",
+    "from": "AUD",
+    "to": "CZK",
+    "amount": 300,
+    "result": 4205.13
+  },
+  {
+    "timestamp": "2025-04-06T19:09:24.627Z",
+    "from": "USD",
+    "to": "AUD",
+    "amount": 30,
+    "result": 49.308
+  },
+  {
+    "timestamp": "2025-04-06T19:09:55.363Z",
+    "from": "USD",
+    "to": "CHF",
+    "amount": 2,
+    "result": 1.7138
+  },
+  {
+    "timestamp": "2025-04-06T19:12:22.823Z",
+    "from": "CHF",
+    "to": "USD",
+    "amount": 30,
+    "result": 35.013
+  }
+]

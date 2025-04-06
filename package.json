@@ -1,0 +1,25 @@
+{
+  "name": "konverze-men-komplet",
+  "version": "1.0.0",
+  "description": "Made by Otto Hyncica 2025",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Otoman666/konverze-men-komplet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Otoman666/konverze-men-komplet/issues"
+  },
+  "homepage": "https://github.com/Otoman666/konverze-men-komplet#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "node-fetch": "^2.7.0"
+  }
+}

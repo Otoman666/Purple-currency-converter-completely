@@ -18,9 +18,10 @@
 					</div>
 
 					<div class="form-group">
-						<label for="amount">From</label>
+						<label for="from">From</label>
 						<select id="from">
 							<option value="EUR">EUR</option>
+							<option value="CZK">CZK</option>
 							<option value="USD">USD</option>
 							<option value="JPY">JPY</option>
 							<option value="GBP">GBP</option>
@@ -29,16 +30,15 @@
 							<option value="CHF">CHF</option>
 							<option value="CNY">CNY</option>
 							<option value="HKD">HKD</option>
-							<option value="CZK">CZK</option>
 						</select>
 					</div>
 
 					<div class="form-group">
-						<label for="amount">To</label>
+						<label for="to">To</label>
 						<select id="to">
 							<option value="CZK">CZK</option>
-							<option value="USD">USD</option>
 							<option value="EUR">EUR</option>
+							<option value="USD">USD</option>
 							<option value="JPY">JPY</option>
 							<option value="GBP">GBP</option>
 							<option value="AUD">AUD</option>
@@ -60,8 +60,17 @@
 				<p>Number of calculations made</p>
 				<p id="calc-count">0</p>
 			</section>
+			<section class="stats-box">
+				<h2>Statistics</h2>
+				<hr />
+				<ul id="stats-list">
+					<li>Total number of conversions: <span id="total-conversions">...</span></li>
+					<li>Most frequent target currency: <span id="most-used-target">...</span></li>
+					<li>Total amount converted to CZK: <span id="total-in-czk">...</span></li>
+				</ul>
+			</section>
 		</main>
 
-		<script src="script.js"></script>
+		<script src="script.js" defer></script>
 	</body>
 </html>

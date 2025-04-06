@@ -2,11 +2,15 @@
 
 Made by Otto Hyncica 2025
 
-Step 1:
-Download the repository and open index.html with Live Server.
+1. Naklonuj repo:
+   git clone https://github.com/ottohyncica/konverze-men.git
 
-Step 2:
-Go to http://localhost:5500/index.html
+2. Nainstaluj závislosti:
+   npm install
 
-Step 3:
-Have a fun!
+3. Spusť server:
+   node server.js
+
+4. Otevři index.html ve VS Code a použij Live Server (nebo otevři přímo file:///index.html)
+
+5. Have a fun :)

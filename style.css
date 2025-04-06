@@ -6,8 +6,6 @@ body {
 .wrapper {
 	max-width: 800px;
 	margin: 0 auto;
-	padding-bottom: 200px;
-	padding-top: 50px;
 }
 
 .title {
@@ -108,6 +106,31 @@ hr {
 	margin: 20px 0;
 	border: none;
 	border-top: 1px solid #ccc;
+}
+
+.stats-box {
+	border: 1px solid #ccc;
+	border-radius: 6px;
+	padding: 20px;
+	text-align: center;
+	width: 300px;
+	margin: 40px auto;
+}
+
+.stats-box h2 {
+	margin-top: 0;
+	font-family: Roboto;
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 100%;
+	text-align: left;
+}
+
+.stats-box li {
+	text-align: left;
+	font-family: Roboto;
+	font-size: 14px;
+	margin: 10px 0;
 }
 
 @media (max-width: 600px) {

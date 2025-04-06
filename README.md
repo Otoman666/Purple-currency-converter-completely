@@ -11,6 +11,7 @@ Navíc jsem celou aplikaci rozšířil o:
 - zobrazování statistik – počet převodů, nejčastější cílová měna a součet částek převedených do CZK,
 
 Spuštění:
+
 Krok 1:
 - Naklonuj si repozitář https://github.com/Otoman666/Purple-currency-converter-completely.git
 

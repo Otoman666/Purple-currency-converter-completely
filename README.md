@@ -13,18 +13,18 @@ Navíc jsem celou aplikaci rozšířil o:
 Spuštění:
 
 Krok 1:
-- Naklonuj si repozitář https://github.com/Otoman666/Purple-currency-converter-completely.git
+Naklonuj si repozitář https://github.com/Otoman666/Purple-currency-converter-completely.git
 
 Krok 2:
-- V terminálu spusť: npm install a node server.js
+V terminálu spusť: npm install a node server.js
 
 Krok 3:
-- Backend poběží na http://localhost:3000.
+Backend poběží na http://localhost:3000.
 
 Krok 4:
-- Otevři index.html pomocí file:///... (nepoužívej Live Server).
+Otevři index.html pomocí file:///... (nepoužívej Live Server).
 
 Krok 5:
-- Zadej částku, vybírej měny a potvrď tlačítkem – částka se odešle na backend, výsledek, počet výpočtů a statistiky se zobrazí.
+Zadej částku, vybírej měny a potvrď tlačítkem – částka se odešle na backend, výsledek, počet výpočtů a statistiky se zobrazí.
 
 [Made by Otto Hyncica 2025]

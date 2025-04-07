@@ -10,6 +10,9 @@ Navíc jsem celou aplikaci rozšířil o:
 - ukládání historie převodů do souboru history.json,
 - zobrazování statistik – počet převodů, nejčastější cílová měna a součet částek převedených do CZK,
 
+Požadavky:
+Node.js
+  
 Spuštění:
 
 Krok 1:
@@ -22,7 +25,8 @@ Krok 3:
 Backend poběží na http://localhost:3000.
 
 Krok 4:
-Otevři index.html pomocí file:///... (nepoužívej Live Server).
+Otevři index.html pomocí file:///... Nepoužívej Live Server, protože backend běží lokálně a musí být volán z `file:///` cesty, aby nedocházelo ke konfliktu s CORS.
+
 
 Krok 5:
 Zadej částku, vybírej měny a potvrď tlačítkem – částka se odešle na backend, výsledek, počet výpočtů a statistiky se zobrazí.
